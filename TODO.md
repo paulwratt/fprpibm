@@ -6,7 +6,7 @@ nothing atm
 
 ## from original GoogleCode Issues
 
-| no   .|status|issue|type|priority|
+| no. | status | issue | type | priority  |
 |:---:|---|---|---|---|---|
 w1
 status: "WontFix"
